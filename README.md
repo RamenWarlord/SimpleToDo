@@ -28,7 +28,7 @@ The following additional features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/bpwmMIh' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='PeekSimpleToDo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Peek](https://github.com/phw/peek).
 
