@@ -36,6 +36,11 @@ GIF created with [Peek](https://github.com/phw/peek).
 
 Describe any challenges encountered while building the app.
 
+- getting used to android studio
+- slightly confused and overwhelmed by the various methods and functions avaliable in java/android studio
+- got confused on long click
+- pc bios does not allow for virtualization so had to switch to different machine
+
 ## License
 
     Copyright [2020] [Ivan Yeung]
